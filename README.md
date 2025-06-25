@@ -24,3 +24,13 @@ node filename.js
 ```
 
 Replace filename.js with the actual name of your JavaScript file.
+
+to run 
+```bash 
+newman run [nama_file_collection].json -e [environment_file].json
+```
+
+to run takehome assignment
+```bash
+node newman-script/dea-newman.js
+```
